@@ -1,0 +1,7 @@
+body {
+    background: #4B0082;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+}
